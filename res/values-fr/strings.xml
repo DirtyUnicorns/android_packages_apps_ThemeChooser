@@ -17,6 +17,8 @@
 -->
 <resources>
   <string name="app_name">Thèmes</string>
+
+    <!-- Themable items -->
   <string name="lock_screen">Fonds d\'écran de verrouillage</string>
   <string name="icons">Icônes</string>
   <string name="fonts">Polices</string>
@@ -26,18 +28,38 @@
   <string name="notifications">Notifications</string>
   <string name="alarms">Alarmes</string>
   <string name="style">Style</string>
-  <string name="default_tag">(Défaut)</string>
+
+  <string name="default_tag">(Par défaut)</string>
+
   <string name="apply">Appliquer</string>
   <string name="applying">Application en cours\u2026</string>
   <string name="remove">Supprimer</string>
   <string name="update">Mettre à jour</string>
+
   <string name="no_preview_available">Aucun aperçu disponible</string>
+
+    <!-- Audibles preview -->
   <string name="alarm_label">Alarme</string>
   <string name="notification_label">Notification</string>
   <string name="ringtone_label">Sonnerie</string>
+
   <string name="unknown_author">Auteur inconnu</string>
+
   <string name="font_preview_letters">AaBbCcDd123</string>
+
   <string name="theme_installed_notification_title">%s installé</string>
   <string name="theme_installed_notification_text">Thème installé avec succès.</string>
-  <string name="menu_item_get_more_themes">Obtenez plus</string>
+
+  <string name="menu_item_get_more_themes">Plus de thèmes</string>
+
+    <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
+    <string name="get_more_description">Plus de thèmes à partir des liens suivants\u00A0:</string>
+
+    <!-- Themes Showcase Entry Names. Change this array only if you change the Entry URL -->
+    <string-array name="get_more_entry_names">
+        <item>Application CyanogenMod Themes Showcase</item>
+        <item>Play Store</item>
+        <item>Plus d\'informations sur le Wiki de CyanogenMod</item>
+    </string-array>
+
 </resources>
