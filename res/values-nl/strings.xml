@@ -16,33 +16,38 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Thema\'s</string>
-  <string name="lock_screen">Vergrendelingsscherm</string>
-  <string name="icons">Pictogrammen</string>
-  <string name="fonts">Lettertypen</string>
-  <string name="wallpapers">Achtergronden</string>
-  <string name="boot_anims">Opstartanimaties</string>
-  <string name="ringtones">Beltonen</string>
-  <string name="notifications">Meldingen</string>
-  <string name="alarms">Alarmen</string>
-  <string name="style">Stijl</string>
-  <string name="default_tag">(standaard)</string>
-  <string name="apply">Toepassen</string>
-  <string name="applying">Toepassen\u2026</string>
-  <string name="update">Bijwerken</string>
-  <string name="no_preview_available">Geen voorbeeld beschikbaar</string>
+  <string name="app_name">Themes</string>
+  <string name="lock_screen">Lock wallpapers</string>
+  <string name="icons">Icons</string>
+  <string name="fonts">Fonts</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="boot_anims">Boot animations</string>
+  <string name="ringtones">Ringtones</string>
+  <string name="notifications">Notifications</string>
+  <string name="alarms">Alarms</string>
+  <string name="style">Style</string>
+  <string name="theme_packs">Theme Packs</string>
+  <string name="sounds">Sounds</string>
+  <string name="lockscreen_wallpaper">Lock Wallpaper</string>
+  <string name="system_theme_name">System</string>
+  <string name="default_tag">(Default)</string>
+  <string name="apply">Apply</string>
+  <string name="applying">Applying\u2026</string>
+  <string name="update">Update</string>
+  <string name="no_preview_available">No preview available</string>
   <string name="alarm_label">Alarm</string>
-  <string name="notification_label">Melding</string>
-  <string name="ringtone_label">Beltoon</string>
-  <string name="unknown_author">Auteur onbekend</string>
+  <string name="notification_label">Notification</string>
+  <string name="ringtone_label">Ringtone</string>
+  <string name="unknown_author">Author unknown</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="theme_installed_notification_title">%s geïnstalleerd</string>
-  <string name="theme_installed_notification_text">Thema installeren geslaagd.</string>
-  <string name="menu_item_get_more_themes">Meer thema\'s</string>
-  <string name="get_more_description">Via de volgende links kunt u meer thema\'s verkrijgen:</string>
+  <string name="theme_installed_notification_title">%s installed</string>
+  <string name="theme_installed_notification_text">Theme successfully installed.</string>
+  <string name="menu_item_get_more_themes">Get more</string>
+  <string name="get_more_description">You can get more themes from the following links:</string>
   <string-array name="get_more_entry_names">
-    <item>CyanogenMod Thema Showcase</item>
+    <item>CyanogenMod Themes Showcase</item>
     <item>Play Store</item>
-    <item>Meer info op de CM Wiki</item>
+    <item>More info on the CM Wiki</item>
   </string-array>
+  <string name="designed_for_cm11">Designed for CM11</string>
 </resources>
