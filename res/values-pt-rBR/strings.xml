@@ -16,33 +16,38 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Temas</string>
-  <string name="lock_screen">Papéis de parede da tela de bloqueio</string>
-  <string name="icons">Ícones</string>
-  <string name="fonts">Fontes</string>
-  <string name="wallpapers">Papéis de parede</string>
-  <string name="boot_anims">Animações de inicialização</string>
-  <string name="ringtones">Toques</string>
-  <string name="notifications">Notificações</string>
-  <string name="alarms">Alarmes</string>
-  <string name="style">Estilo</string>
-  <string name="default_tag">(Padrão)</string>
-  <string name="apply">Aplicar</string>
-  <string name="applying">Aplicando\u2026</string>
-  <string name="update">Atualizar</string>
-  <string name="no_preview_available">Sem previsualização</string>
-  <string name="alarm_label">Alarme</string>
-  <string name="notification_label">Notificação</string>
-  <string name="ringtone_label">Toque</string>
-  <string name="unknown_author">Autor desconhecido</string>
+  <string name="app_name">Themes</string>
+  <string name="lock_screen">Lock wallpapers</string>
+  <string name="icons">Icons</string>
+  <string name="fonts">Fonts</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="boot_anims">Boot animations</string>
+  <string name="ringtones">Ringtones</string>
+  <string name="notifications">Notifications</string>
+  <string name="alarms">Alarms</string>
+  <string name="style">Style</string>
+  <string name="theme_packs">Theme Packs</string>
+  <string name="sounds">Sounds</string>
+  <string name="lockscreen_wallpaper">Lock Wallpaper</string>
+  <string name="system_theme_name">System</string>
+  <string name="default_tag">(Default)</string>
+  <string name="apply">Apply</string>
+  <string name="applying">Applying\u2026</string>
+  <string name="update">Update</string>
+  <string name="no_preview_available">No preview available</string>
+  <string name="alarm_label">Alarm</string>
+  <string name="notification_label">Notification</string>
+  <string name="ringtone_label">Ringtone</string>
+  <string name="unknown_author">Author unknown</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="theme_installed_notification_title">%s instalado</string>
-  <string name="theme_installed_notification_text">Tema instalado com sucesso.</string>
-  <string name="menu_item_get_more_themes">Obter mais</string>
-  <string name="get_more_description">Você pode obter mais temas nos seguintes links:</string>
+  <string name="theme_installed_notification_title">%s installed</string>
+  <string name="theme_installed_notification_text">Theme successfully installed.</string>
+  <string name="menu_item_get_more_themes">Get more</string>
+  <string name="get_more_description">You can get more themes from the following links:</string>
   <string-array name="get_more_entry_names">
-    <item>Vitrine de Temas CyanogenMod</item>
+    <item>CyanogenMod Themes Showcase</item>
     <item>Play Store</item>
-    <item>Mais informação no CM Wiki</item>
+    <item>More info on the CM Wiki</item>
   </string-array>
+  <string name="designed_for_cm11">Designed for CM11</string>
 </resources>

@@ -16,33 +16,38 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Temalar</string>
-  <string name="lock_screen">Kilit ekranı duvar kağıtları</string>
-  <string name="icons">Simgeler</string>
-  <string name="fonts">Yazı tipleri</string>
-  <string name="wallpapers">Duvar kağıtları</string>
-  <string name="boot_anims">Açılış animasyonları</string>
-  <string name="ringtones">Zil sesleri</string>
-  <string name="notifications">Bildirimler</string>
-  <string name="alarms">Alarmlar</string>
-  <string name="style">Stil</string>
-  <string name="default_tag">(Varsayılan)</string>
-  <string name="apply">Uygula</string>
-  <string name="applying">Uygulanıyor\u2026</string>
-  <string name="update">Güncelle</string>
-  <string name="no_preview_available">Mevcut önizleme yok</string>
+  <string name="app_name">Themes</string>
+  <string name="lock_screen">Lock wallpapers</string>
+  <string name="icons">Icons</string>
+  <string name="fonts">Fonts</string>
+  <string name="wallpapers">Wallpapers</string>
+  <string name="boot_anims">Boot animations</string>
+  <string name="ringtones">Ringtones</string>
+  <string name="notifications">Notifications</string>
+  <string name="alarms">Alarms</string>
+  <string name="style">Style</string>
+  <string name="theme_packs">Theme Packs</string>
+  <string name="sounds">Sounds</string>
+  <string name="lockscreen_wallpaper">Lock Wallpaper</string>
+  <string name="system_theme_name">System</string>
+  <string name="default_tag">(Default)</string>
+  <string name="apply">Apply</string>
+  <string name="applying">Applying\u2026</string>
+  <string name="update">Update</string>
+  <string name="no_preview_available">No preview available</string>
   <string name="alarm_label">Alarm</string>
-  <string name="notification_label">Bildirim</string>
-  <string name="ringtone_label">Zil sesi</string>
-  <string name="unknown_author">Sahibi bilinmiyor</string>
+  <string name="notification_label">Notification</string>
+  <string name="ringtone_label">Ringtone</string>
+  <string name="unknown_author">Author unknown</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="theme_installed_notification_title">%s yüklendi</string>
-  <string name="theme_installed_notification_text">Tema başarıyla yüklendi.</string>
-  <string name="menu_item_get_more_themes">Daha fazlasını edinin</string>
-  <string name="get_more_description">Aşağıdaki bağlantılardan daha fazla temaya ulaşabilirsiniz:</string>
+  <string name="theme_installed_notification_title">%s installed</string>
+  <string name="theme_installed_notification_text">Theme successfully installed.</string>
+  <string name="menu_item_get_more_themes">Get more</string>
+  <string name="get_more_description">You can get more themes from the following links:</string>
   <string-array name="get_more_entry_names">
-    <item>CyanogenMod Tema Vitrini</item>
+    <item>CyanogenMod Themes Showcase</item>
     <item>Play Store</item>
-    <item>CM Wiki hakkında daha fazla bilgi</item>
+    <item>More info on the CM Wiki</item>
   </string-array>
+  <string name="designed_for_cm11">Designed for CM11</string>
 </resources>
