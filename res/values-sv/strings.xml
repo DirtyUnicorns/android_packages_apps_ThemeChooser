@@ -16,38 +16,33 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Themes</string>
-  <string name="lock_screen">Lock wallpapers</string>
-  <string name="icons">Icons</string>
-  <string name="fonts">Fonts</string>
-  <string name="wallpapers">Wallpapers</string>
-  <string name="boot_anims">Boot animations</string>
-  <string name="ringtones">Ringtones</string>
-  <string name="notifications">Notifications</string>
-  <string name="alarms">Alarms</string>
-  <string name="style">Style</string>
-  <string name="theme_packs">Theme Packs</string>
-  <string name="sounds">Sounds</string>
-  <string name="lockscreen_wallpaper">Lock Wallpaper</string>
-  <string name="system_theme_name">System</string>
-  <string name="default_tag">(Default)</string>
-  <string name="apply">Apply</string>
-  <string name="applying">Applying\u2026</string>
-  <string name="update">Update</string>
-  <string name="no_preview_available">No preview available</string>
+  <string name="app_name">Teman</string>
+  <string name="lock_screen">Lås bakgrundsbilder</string>
+  <string name="icons">Ikoner</string>
+  <string name="fonts">Typsnitt</string>
+  <string name="wallpapers">Bakgrundsbilder</string>
+  <string name="boot_anims">Uppstartsanimationer</string>
+  <string name="ringtones">Ringsignaler</string>
+  <string name="notifications">Aviseringar</string>
+  <string name="alarms">Alarm</string>
+  <string name="style">Stil</string>
+  <string name="default_tag">(Standard)</string>
+  <string name="apply">Verkställ</string>
+  <string name="applying">Tillämpar\u2026</string>
+  <string name="update">Uppdatera</string>
+  <string name="no_preview_available">Ingen förhandsgranskning tillgänglig</string>
   <string name="alarm_label">Alarm</string>
-  <string name="notification_label">Notification</string>
-  <string name="ringtone_label">Ringtone</string>
-  <string name="unknown_author">Author unknown</string>
+  <string name="notification_label">Avisering</string>
+  <string name="ringtone_label">Ringsignal</string>
+  <string name="unknown_author">Okänd upphovsman</string>
   <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="theme_installed_notification_title">%s installed</string>
-  <string name="theme_installed_notification_text">Theme successfully installed.</string>
-  <string name="menu_item_get_more_themes">Get more</string>
-  <string name="get_more_description">You can get more themes from the following links:</string>
+  <string name="theme_installed_notification_title">%s installerad</string>
+  <string name="theme_installed_notification_text">Temat installerades.</string>
+  <string name="menu_item_get_more_themes">Hitta fler</string>
+  <string name="get_more_description">Du kan få fler teman från följande länkar:</string>
   <string-array name="get_more_entry_names">
-    <item>CyanogenMod Themes Showcase</item>
-    <item>Play Store</item>
-    <item>More info on the CM Wiki</item>
+    <item>Visning av CyanogenMod-teman</item>
+    <item>Play Butik</item>
+    <item>Mer info på CyanogenMods Wiki</item>
   </string-array>
-  <string name="designed_for_cm11">Designed for CM11</string>
 </resources>
