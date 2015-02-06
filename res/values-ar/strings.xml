@@ -16,38 +16,33 @@
      limitations under the License.
 -->
 <resources>
-  <string name="app_name">Themes</string>
-  <string name="lock_screen">Lock wallpapers</string>
-  <string name="icons">Icons</string>
-  <string name="fonts">Fonts</string>
-  <string name="wallpapers">Wallpapers</string>
-  <string name="boot_anims">Boot animations</string>
-  <string name="ringtones">Ringtones</string>
-  <string name="notifications">Notifications</string>
-  <string name="alarms">Alarms</string>
-  <string name="style">Style</string>
-  <string name="theme_packs">Theme Packs</string>
-  <string name="sounds">Sounds</string>
-  <string name="lockscreen_wallpaper">Lock Wallpaper</string>
-  <string name="system_theme_name">System</string>
-  <string name="default_tag">(Default)</string>
-  <string name="apply">Apply</string>
-  <string name="applying">Applying\u2026</string>
-  <string name="update">Update</string>
-  <string name="no_preview_available">No preview available</string>
-  <string name="alarm_label">Alarm</string>
-  <string name="notification_label">Notification</string>
-  <string name="ringtone_label">Ringtone</string>
-  <string name="unknown_author">Author unknown</string>
-  <string name="font_preview_letters">AaBbCcDd123</string>
-  <string name="theme_installed_notification_title">%s installed</string>
-  <string name="theme_installed_notification_text">Theme successfully installed.</string>
-  <string name="menu_item_get_more_themes">Get more</string>
-  <string name="get_more_description">You can get more themes from the following links:</string>
+  <string name="app_name">المواضيع</string>
+  <string name="lock_screen">خلفية قفل الشاشة</string>
+  <string name="icons">الأيقونات</string>
+  <string name="fonts">الخطوط</string>
+  <string name="wallpapers">خلفيات</string>
+  <string name="boot_anims">الرسوم المتحركة في التشغيل</string>
+  <string name="ringtones">نغمات</string>
+  <string name="notifications">التنبيهات</string>
+  <string name="alarms">التنبيهات</string>
+  <string name="style">نمط</string>
+  <string name="default_tag">(الافتراضي)</string>
+  <string name="apply">طبّق</string>
+  <string name="applying">تطبيق\u2026</string>
+  <string name="update">تحديث</string>
+  <string name="no_preview_available">لا تتوفر أية معاينة</string>
+  <string name="alarm_label">المنبه</string>
+  <string name="notification_label">الإعلام</string>
+  <string name="ringtone_label">نغمة رنين</string>
+  <string name="unknown_author">مؤلف غير معروف</string>
+  <string name="font_preview_letters">Aaابت123١٢٣</string>
+  <string name="theme_installed_notification_title">%s مثبت</string>
+  <string name="theme_installed_notification_text">موضوع مثبت بنجاح.</string>
+  <string name="menu_item_get_more_themes">احصل على المزيد</string>
+  <string name="get_more_description">يمكنك الحصول على المزيد من المواضيع من الروابط التالية:</string>
   <string-array name="get_more_entry_names">
-    <item>CyanogenMod Themes Showcase</item>
-    <item>Play Store</item>
-    <item>More info on the CM Wiki</item>
+    <item>عرض مواضيع CyanogenMod</item>
+    <item>متجر Play</item>
+    <item>مزيد من المعلومات حول Wiki CM</item>
   </string-array>
-  <string name="designed_for_cm11">Designed for CM11</string>
 </resources>
