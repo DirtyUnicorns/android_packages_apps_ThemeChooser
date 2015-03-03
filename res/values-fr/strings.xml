@@ -17,7 +17,6 @@
 -->
 <resources>
   <string name="app_name">Thèmes</string>
-  <string name="lock_screen">Fonds d\'écran de verrouillage</string>
   <string name="icons">Icônes</string>
   <string name="fonts">Polices</string>
   <string name="wallpapers">Fonds d\'écran</string>
