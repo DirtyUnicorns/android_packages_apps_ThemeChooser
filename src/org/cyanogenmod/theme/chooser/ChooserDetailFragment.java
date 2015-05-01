@@ -54,7 +54,6 @@ import android.widget.TextView;
 import com.viewpagerindicator.CirclePageIndicator;
 
 import org.cyanogenmod.theme.util.ChooserDetailScrollView;
-import org.cyanogenmod.theme.util.Utils;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -202,14 +201,6 @@ public class ChooserDetailFragment extends Fragment implements LoaderManager.Loa
             CheckBox componentCheckbox = (CheckBox) v.findViewById(entry.getValue());
             mComponentToCheckbox.put(entry.getKey(), componentCheckbox);
             componentCheckbox.setOnCheckedChangeListener(mComponentCheckChangedListener);
-        }
-
-        // Remove the nav bar checkbox if the user has hardware nav keys
-        if (!Utils.hasNavigationBar(getActivity())) {
-            View navBarCheck = v.findViewById(R.id.chk_nav_bar);
-            if (navBarCheck != null) {
-                navBarCheck.setVisibility(View.GONE);
-            }
         }
 
         getLoaderManager().initLoader(LOADER_ID_THEME_INFO, null, this);
