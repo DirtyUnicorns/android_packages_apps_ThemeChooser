@@ -60,6 +60,7 @@
     <string name="theme_installed_notification_text">Theme successfully installed.</string>
 
     <string name="menu_item_playstore_themes">Playstore Themes</string>
+    <string name="menu_item_du_certified_themes">DU Certified</string>
     <string name="menu_item_restart_systemui">Restart SystemUI</string>
 
     <!-- Shown when the user clicks 'Get More' button from the themes list screen -->

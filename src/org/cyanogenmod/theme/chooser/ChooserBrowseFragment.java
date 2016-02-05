@@ -146,6 +146,9 @@ public class ChooserBrowseFragment extends Fragment
             case R.id.playstore_themes:
                 launchThemeStore();
             break;
+            case R.id.du_certified_themes:
+                launchDUCertified();
+            break;
             case R.id.restart_systemui:
                 Helpers.restartSystemUI();
                 return true;
@@ -157,6 +160,12 @@ public class ChooserBrowseFragment extends Fragment
     private void launchThemeStore() {
         Intent intent = new Intent(Intent.ACTION_VIEW);
         intent.setData(Uri.parse("market://search?q=cm13+themes&c=apps"));
+        startActivity(intent);
+    }
+
+    private void launchDUCertified() {
+        Intent intent = new Intent(Intent.ACTION_MAIN);
+        intent.setComponent(new ComponentName("com.dirtyunicorns.certified","com.dirtyunicorns.certified.MainActivity"));
         startActivity(intent);
     }
 
