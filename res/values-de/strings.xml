@@ -46,6 +46,9 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="theme_installed_notification_title">%s installiert</string>
   <string name="theme_installed_notification_text">Design erfolgreich installiert</string>
+  <string name="menu_item_playstore_themes">Designs im Playstore</string>
+  <string name="menu_item_du_certified_themes">DU Certified</string>
+  <string name="menu_item_restart_systemui">SystemUI neustarten</string>
   <string name="menu_item_get_more_themes">Mehr beziehen</string>
   <string name="get_more_description">Weitere Designs erhalten Sie unter den folgenden Links:</string>
   <string name="get_more_app_not_available">APP nicht verfügbar</string>
