@@ -88,6 +88,8 @@ public class ChooserBrowseFragment extends Fragment
 
     private Point mMaxImageSize = new Point(); //Size of preview image in listview
 
+    private static final String DU_CERTIFIED = "com.dirtyunicorns.certified";
+
     public static ChooserBrowseFragment newInstance(ArrayList<String> componentFilters) {
         ChooserBrowseFragment fragment = new ChooserBrowseFragment();
         Bundle args = new Bundle();
@@ -138,6 +140,13 @@ public class ChooserBrowseFragment extends Fragment
     @Override
     public void onCreateOptionsMenu(Menu menu, MenuInflater inflater) {
         inflater.inflate(R.menu.chooser_menu, menu);
+
+        MenuItem item = menu.findItem(R.id.du_certified_themes);
+        if (isPackageInstalled(getActivity(), DU_CERTIFIED)) {
+            item.setVisible(true);
+        } else {
+            item.setVisible(false);
+        }
     }
 
     @Override
@@ -167,6 +176,14 @@ public class ChooserBrowseFragment extends Fragment
         Intent intent = new Intent(Intent.ACTION_MAIN);
         intent.setComponent(new ComponentName("com.dirtyunicorns.certified","com.dirtyunicorns.certified.MainActivity"));
         startActivity(intent);
+    }
+
+    private static boolean isPackageInstalled(Context context, String packageName) {
+        try {
+            return context.getPackageManager().getPackageInfo(packageName, 0) != null;
+        } catch (NameNotFoundException e) {
+            return false;
+        }
     }
 
     @Override
