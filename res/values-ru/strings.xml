@@ -49,9 +49,9 @@
   <string name="font_preview_letters">АаБбCcDd123</string>
   <string name="theme_installed_notification_title">Добавлена тема «%s»</string>
   <string name="theme_installed_notification_text">Тема успешно установлена.</string>
-  <string name="menu_item_playstore_themes">Playstore Themes</string>
-  <string name="menu_item_du_certified_themes">DU Certified</string>
-  <string name="menu_item_restart_systemui">Restart SystemUI</string>
+  <string name="menu_item_playstore_themes">Темы из Play Store</string>
+  <string name="menu_item_du_certified_themes">Сертифицировано DU</string>
+  <string name="menu_item_restart_systemui">Перезапустить SystemUI</string>
   <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
   <string name="get_more_description">Вы можете скачать темы по следующим ссылкам:</string>
   <string name="get_more_app_not_available">Приложение недоступно</string>

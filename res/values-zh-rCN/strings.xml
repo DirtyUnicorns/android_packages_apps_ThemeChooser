@@ -49,9 +49,9 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="theme_installed_notification_title">%s 已安装</string>
   <string name="theme_installed_notification_text">主题已成功安装。</string>
-  <string name="menu_item_playstore_themes">Playstore Themes</string>
-  <string name="menu_item_du_certified_themes">DU Certified</string>
-  <string name="menu_item_restart_systemui">Restart SystemUI</string>
+  <string name="menu_item_playstore_themes">Play商店主题</string>
+  <string name="menu_item_du_certified_themes">DU认证主题</string>
+  <string name="menu_item_restart_systemui">重启SystemUI</string>
   <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
   <string name="get_more_description">你可以从下面的链接获取更多主题：</string>
   <string name="get_more_app_not_available">应用不可用</string>
