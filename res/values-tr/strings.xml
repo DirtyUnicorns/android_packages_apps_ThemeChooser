@@ -49,7 +49,7 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="theme_installed_notification_title">%s yüklendi</string>
   <string name="theme_installed_notification_text">Tema başarıyla yüklendi.</string>
-  <string name="menu_item_playstore_themes">Playstore Themes</string>
+  <string name="menu_item_playstore_themes">Playstore Temalar</string>
   <string name="menu_item_du_certified_themes">DU Certified</string>
   <string name="menu_item_restart_systemui">Restart SystemUI</string>
   <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
