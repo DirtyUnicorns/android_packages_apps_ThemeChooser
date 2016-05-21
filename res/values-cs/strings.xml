@@ -28,6 +28,7 @@
   <string name="alarms">Budíky</string>
   <string name="style">Styl</string>
   <string name="status_bar">Stavová lišta</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Navigační lišta</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Balíčky motivů</string>

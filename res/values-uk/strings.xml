@@ -28,6 +28,7 @@
   <string name="alarms">Будильники</string>
   <string name="style">Стиль</string>
   <string name="status_bar">Рядок стану</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Рядок навігації</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Пакети тем</string>

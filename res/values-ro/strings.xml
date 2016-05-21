@@ -28,6 +28,7 @@
   <string name="alarms">Alarme</string>
   <string name="style">Stil</string>
   <string name="status_bar">Bara de stare</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Bara de navigare</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Pachete de teme</string>

@@ -28,6 +28,7 @@
   <string name="alarms">Ébresztők</string>
   <string name="style">Stílus</string>
   <string name="status_bar">Értesítési sáv</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Navigációs sáv</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Téma csomagok</string>

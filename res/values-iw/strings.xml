@@ -28,6 +28,7 @@
   <string name="alarms">שעונים מעוררים</string>
   <string name="style">סגנון</string>
   <string name="status_bar">שורת מצב</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">סרגל ניווט</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">ערכות עיצוב</string>

@@ -28,6 +28,7 @@
   <string name="alarms">アラーム</string>
   <string name="style">スタイル</string>
   <string name="status_bar">ステータスバー</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">ナビゲーションバー</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">テーマパック</string>

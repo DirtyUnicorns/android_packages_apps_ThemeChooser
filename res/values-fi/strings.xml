@@ -28,6 +28,7 @@
   <string name="alarms">Hälytykset</string>
   <string name="style">Tyyli</string>
   <string name="status_bar">Tilapalkki</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Navigointipalkki</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Teemapaketit</string>
