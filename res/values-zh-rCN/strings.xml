@@ -28,6 +28,7 @@
   <string name="alarms">闹钟</string>
   <string name="style">样式</string>
   <string name="status_bar">状态栏</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">导航栏</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">主题包</string>

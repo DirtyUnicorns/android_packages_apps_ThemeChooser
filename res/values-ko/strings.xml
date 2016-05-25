@@ -28,6 +28,7 @@
   <string name="alarms">알람</string>
   <string name="style">스타일</string>
   <string name="status_bar">상태 표시줄</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">내비게이션 바</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">테마 팩</string>

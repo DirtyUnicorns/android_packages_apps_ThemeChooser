@@ -28,6 +28,7 @@
   <string name="alarms">Ξυπνητήρια</string>
   <string name="style">Στυλ</string>
   <string name="status_bar">Γραμμή κατάστασης</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Γραμμή πλοήγησης</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Πακέτα θέματος</string>

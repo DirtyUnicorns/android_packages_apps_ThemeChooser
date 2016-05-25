@@ -28,6 +28,7 @@
   <string name="alarms">Alarmen</string>
   <string name="style">Stijl</string>
   <string name="status_bar">Statusbalk</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Navigatiebalk</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Themapakketten</string>

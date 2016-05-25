@@ -28,6 +28,7 @@
   <string name="alarms">التنبيهات</string>
   <string name="style">نمط</string>
   <string name="status_bar">شريط الحالة</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">شريط التنقل</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">حزم السمات</string>

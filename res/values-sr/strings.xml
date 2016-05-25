@@ -28,6 +28,7 @@
   <string name="alarms">Аларми</string>
   <string name="style">Стил</string>
   <string name="status_bar">Статусна трака</string>
+  <string name="status_bar_headers">Headers</string>
   <string name="nav_bar">Навигациона трака</string>
   <!-- Drawer items (some items in drawer are part of themeable items) -->
   <string name="theme_packs">Пакети тема</string>
