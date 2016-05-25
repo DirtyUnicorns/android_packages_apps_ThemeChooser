@@ -50,9 +50,9 @@
   <string name="font_preview_letters">AaBbCcDd123</string>
   <string name="theme_installed_notification_title">%s geïnstalleerd</string>
   <string name="theme_installed_notification_text">Thema installeren geslaagd.</string>
-  <string name="menu_item_playstore_themes">Playstore Themes</string>
-  <string name="menu_item_du_certified_themes">DU Certified</string>
-  <string name="menu_item_restart_systemui">Restart SystemUI</string>
+  <string name="menu_item_playstore_themes">Playstore Thema\'s</string>
+  <string name="menu_item_du_certified_themes">DU Gecertificeerd</string>
+  <string name="menu_item_restart_systemui">SystemUI herstarten</string>
   <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
   <string name="get_more_description">Via de volgende links kunt u meer thema\'s verkrijgen:</string>
   <string name="get_more_app_not_available">App niet beschikbaar</string>
