@@ -52,7 +52,7 @@
   <string name="theme_installed_notification_text">Тема успішно встановлена.</string>
   <string name="menu_item_playstore_themes">Playstore Themes</string>
   <string name="menu_item_du_certified_themes">DU Certified</string>
-  <string name="menu_item_restart_systemui">Restart SystemUI</string>
+  <string name="menu_item_restart_systemui">Перезапуститити SystemUI</string>
   <!-- Shown when the user clicks 'Get More' button from the themes list screen -->
   <string name="get_more_description">Додаткові теми можна отримати тут:</string>
   <string name="get_more_app_not_available">Додаток недоступний</string>
