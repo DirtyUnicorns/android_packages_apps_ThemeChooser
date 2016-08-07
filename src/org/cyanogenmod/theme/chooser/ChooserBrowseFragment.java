@@ -195,7 +195,7 @@ public class ChooserBrowseFragment extends Fragment
 
     private void launchDUCertified() {
         Intent intent = new Intent(Intent.ACTION_MAIN);
-        intent.setComponent(new ComponentName("com.dirtyunicorns.certified","com.dirtyunicorns.certified.activities.LightThemes"));
+        intent.setComponent(new ComponentName("com.dirtyunicorns.certified","com.dirtyunicorns.certified.activities.MainActivity"));
         startActivity(intent);
     }
 
